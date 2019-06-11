@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,6EAAI",
+    "sources": [
+        "styles.scss",
+        "helpers/variables.scss",
+        "helpers/mixins.scss",
+        "partials/_page.scss",
+        "partials/_tables.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}

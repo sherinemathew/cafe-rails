@@ -1,0 +1,13 @@
+@mixin font-settings($font-fam: $font-main, $size:1.5em, $color: $font-main)
+{
+    font-family: $font-family;
+    font-size: $size;
+    color: $font-main;
+}
+
+@mixin flex-center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
